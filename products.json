@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "Product 1",
+    "description": "este es el producto 1",
+    "price": 10,
+    "thumbnail": "thumbnail-url",
+    "code": "abc1",
+    "stock": 10
+  },
+  {
+    "id": 3,
+    "title": "Product 3 actualizado",
+    "description": "este es el producto 3",
+    "price": 2,
+    "thumbnail": "thumbnail-url",
+    "code": "5671",
+    "stock": 7
+  },
+  {
+    "id": 6,
+    "title": "Product 3",
+    "description": "este es el producto 3",
+    "price": 2,
+    "thumbnail": "thumbnail-url",
+    "code": "5671235",
+    "stock": 7
+  },
+  {
+    "id": 7,
+    "title": "Product 2",
+    "description": "este es el producto 2",
+    "price": 10,
+    "thumbnail": "ABC123",
+    "code": "abc21",
+    "stock": 2
+  }
+]
