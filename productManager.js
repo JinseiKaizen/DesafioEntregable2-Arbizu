@@ -110,7 +110,6 @@ const products = async () => {
     await productManager.addProduct(product1);
     await productManager.addProduct(product2);
     await productManager.addProduct(product3);
-    // const getProduct = productManager.getProductById(2);
     const getProducts = await productManager.getProducts();
     const updateProduct = await productManager.updateProduct(3, 'title', 'Product 3 actualizado');
     const deleteProduct = await productManager.deleteProducts(5);
